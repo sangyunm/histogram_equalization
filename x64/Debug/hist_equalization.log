@@ -1,0 +1,3 @@
+﻿  equlization.cpp
+C:\Users\sxm41\source\repos\cuda_image_processing\hist_equalization\CUDA_equalization.h(8,9): warning C4068: unknown pragma 'once0'
+  hist_equalization.vcxproj -> C:\Users\sxm41\source\repos\cuda_image_processing\x64\Debug\hist_equalization.exe
